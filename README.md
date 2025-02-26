@@ -35,6 +35,7 @@ __Encrypting an Image__
 - Select an image file.
 - Enter the secret message and passcode.
 - Click __"Encrypt Image"__ - A new encrypted image is saved.
+  <br>
 __Decrypting an Image__
 - Select the encrypted image.
 - Enter the correct passcode.
