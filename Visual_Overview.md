@@ -5,9 +5,11 @@
 
 - The Main GUI of the application which is created using Tkinter which consists the Encryption and Decryption features.
 
-  ![Image](https://github.com/user-attachments/assets/86338e89-a2da-4c97-932f-9de7738c223a)
+  ![Screenshot 2025-02-26 173355](https://github.com/user-attachments/assets/b39a0ff0-52b4-44fb-ada7-b38cac68e167)
 
-  ![Image](https://github.com/user-attachments/assets/ee93472f-48eb-4aee-af03-f0e54eff496b)
+
+  ![Screenshot 2025-02-26 173405](https://github.com/user-attachments/assets/f6767237-7d60-4bf5-b7a7-418ac63ce178)
+
   
 - The Encryption Confirmation appears which means secret text is hidden in image.
 
