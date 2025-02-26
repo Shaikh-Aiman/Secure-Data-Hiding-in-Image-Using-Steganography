@@ -44,6 +44,11 @@ __Decrypting an Image__
 - Enter the correct passcode.
 - Click __"Decrypt Image"__  The hidden message is displayed.
 
+### Types of Steganography:
+
+ ![image](https://github.com/user-attachments/assets/623a5123-880e-4618-b409-b81ad15f0abe)
+
+
 ### Conclusion:
 This project demonstrates steganography techniques using Python to securely hide messages inside images without visible distortion. The implemented GUI provides a user-friendly interface for both encryption and decryption, ensuring that only authorized users with the correct passcode can retrieve the hidden message. Additionally, the standalone executable (.exe) file makes the application accessible without requiring Python installation, making it a convenient and efficient solution for secure data hiding.
 
