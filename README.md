@@ -1,5 +1,6 @@
 # Secure-Data-Hiding-in-Image-Using-Steganography
 
+![image](https://github.com/user-attachments/assets/b659da62-07a5-4313-98cd-0c1158b4aca0)
 
 ### Project Objectives: 
 Develop a steganography application to securely hide text messages inside image files.
